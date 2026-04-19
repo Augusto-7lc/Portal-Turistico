@@ -1,6 +1,8 @@
 # Projeto turismo
 ## P1 prof. Clerivaldo
 
+# https://augusto-7lc.github.io/Portal-Turistico/
+
 ## Integrantes
 Pedro augusto
 Caio
